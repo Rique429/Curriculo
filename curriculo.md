@@ -58,8 +58,11 @@ ________________________________________
 ### Certificações e Cursos
 
 •	Testes Automáticos + Teste de Software (Udemy – 2022)
+
 •	BDD Experience (Udemy – 2024)
+
 •	JavaScript para QAs (Udemy – 2024)
+
 • Em preparação para a CTFL.
 
 ### Idiomas
