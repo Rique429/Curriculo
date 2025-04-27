@@ -29,7 +29,7 @@
 
 ## 🌎 Encontre-me na Web
 - 📚 [Curriculum](curriculo.md)
-- 🐞 [Portfólio QA](https://github.com/davidtmasin/portfolio-qa)
+- 🐞 [Portfólio QA](https://github.com/Rique429/Curriculo)
 - 💼 [LinkedIn](linkedin.com/in/jorge-henrique-vieira-da-silva-796510123)
 - ✉️ [Email](mailto:jorgehv.silva@outlook.com)
 
