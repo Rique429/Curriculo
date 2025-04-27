@@ -1,67 +1,125 @@
+<div align="center">   
+  <p id="title">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+Jorge+Henrique+Vieira."/>
+  </p>
+  <p id="subtitle">
+    𝗤𝗔 | 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗤𝘂𝗮𝗹𝗶𝗱𝗮𝗱𝗲 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 | 𝗧𝗲𝘀𝘁𝗲𝘀 𝗠𝗮𝗻𝘂𝗮𝗶𝘀 𝗲 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝘇𝗮𝗱𝗼𝘀
+  </p>    
+  <br>
+</div>
 
-### Jorge Henrique Vieira da Silva
 
-📍 Osasco – SP | 📞 (11) 96639-1958 | 📧 hvieira103@gmail.com
+## 📋Sobre mim
+  Sou um Analista de Testes e Qualidade de Software apaixonado por garantir a entrega de produtos com máxima excelência. Possuo experiência em testes manuais e automatizados, atuando com metodologias ágeis e ferramentas de ponta para assegurar a qualidade de sistemas robustos e eficientes.
 
-💻 QA | Testes de Software | Automação | Cypress | Ruby | Azure DevOps | Testes Ágeis
-________________________________________
-Resumo Profissional
-Sou um Analista de Testes e Garantia de Qualidade de Software com sólida experiência em automação e testes manuais, especializado em garantir entregas de alto padrão com foco em performance, usabilidade e confiabilidade. Atuo com Ruby, Cucumber, Cypress e Azure DevOps, utilizando metodologias ágeis (Scrum) para entregar soluções eficazes e alinhadas às necessidades do negócio. Tenho paixão por qualidade, aprendizado contínuo e sou movido por desafios.
-________________________________________
-## Competências Técnicas
+🔹 Diferenciais:
 
-•	Testes: Funcionais, Integrados, End-to-End, Regressão, Exploratórios, Usabilidade
+✔️ Experiência com Cypress, Ruby, Selenium e automação de testes
 
-•	Automação: Cypress, Ruby, Cucumber, Selenium
+✔️ Conhecimento em bancos de dados (MySQL Server) e ferramentas DevOps (Azure DevOps, Jenkins)
 
-•	Ferramentas: Azure DevOps, Jira, Zephyr Scale, Jenkins, GitHub, SoapUI, Octane
+✔️ Atuação em metodologias ágeis (Scrum, Kanban) e testes exploratórios, regressivos e funcionais
 
-•	Dev Tools: Visual Studio Code, IntelliJ IDEA, DBeaver, Apache JMeter, Figma
+✔️ Forte capacidade analítica para identificação e resolução de bugs críticos
 
-•	Banco de Dados: MySQL Server
+📌 Atualmente, faço parte do time da G4F, onde sou responsável por testar e avaliar a qualidade do Sistema Siga Saúde, garantindo conformidade com os requisitos de negócio e técnicos.
 
-•	Metodologias: Scrum, Agile, BDD
+🚀 Estou sempre em busca de inovação e aprendizado contínuo para aprimorar processos de qualidade e contribuir com times de desenvolvimento de alto desempenho.
 
-•	Soft Skills: Organização, atenção a detalhes, pensamento analítico, trabalho em equipe
-________________________________________
-## Experiência Profissional
 
-### G4F – Analista de Testes / QA
-📍 São Paulo – SP | 🗓 Outubro/2024 – Atual
+## 🌎 Encontre-me na Web
+- 📚 [Curriculum](curriculo.md)
+- 🐞 [Portfólio QA](https://github.com/davidtmasin/portfolio-qa)
+- 💼 [LinkedIn](linkedin.com/in/jorge-henrique-vieira-da-silva-796510123)
+- ✉️ [Email](mailto:jorgehv.silva@outlook.com)
 
-•	Atuação em melhorias no sistema SIGA Saúde, dentro de uma squad ágil.
-•	Automatização de testes com Cypress e manutenção de scripts.
-•	Criação e execução de testes funcionais, regressivos, exploratórios e E2E.
-•	Gestão de bugs e testes via Azure DevOps.
-•	Elaboração de evidências técnicas e documentação de testes.
 
-### WATI Consultoria (Cliente: Orizon) – Analista de Testes Pleno
-📍 São Paulo – SP | 🗓 Abril/2021 – Outubro/2024
+## 💻 Experiência
+  Minha jornada como QA já soma em 05 anos, onde trabalhei:
+  - WATI Consultoria (Cliente: Orizon) – Analista de Testes Pleno, onde fui o responsável pelo processo de qualidade em projetos de software focados no contexto da saúde (𝟬3 𝗮𝗻𝗼 𝗲 06 𝗺𝗲𝘀𝗲𝘀).
+  - G4F – Analista de Testes / QA, onde sou o responsável pelo porcesso de qualidade em projetos de software focados em contextos variados tais como, saúde, sistema SUS. (06 𝗺𝗲𝘀𝗲𝘀).
 
-•	Planejamento e execução de testes para evolução do sistema da Orizon.
-•	Automatização de cenários de testes com foco em BDD usando Cucumber + Ruby.
-•	Gerenciamento de testes e defeitos com Jira e Zephyr Scale.
-•	Refinamento de histórias de usuário em ambiente Scrum.
+ 
+## 🎓 𝗙𝗼𝗿𝗺𝗮çã𝗼
+  - Tecnologia em Análise e Desenvolvimento de Sistemas – FMU (2023 – 2024)
 
-### Plenaver Vistoria Veicular
-Analista de Controle de Qualidade – Mai/2017 a Mar/2019
-Vistoriador Veicular – Out/2015 a Mai/2017
-•	Verificação técnica e validação de laudos veiculares.
-•	Prevenção de fraudes e suporte a processos de transferência.
-Portocar Serviços LTDA – Vistoriador Veicular
-📍 Osasco – SP | 🗓 Mar/2015 – Jul/2015
-•	Execução de laudos técnicos para liberação de apólices de seguro.
-________________________________________
-### Formação Acadêmica
+## 📝 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮çã𝗼
+  - Em preparação para a CTFL.
 
-•	Tecnologia em Análise e Desenvolvimento de Sistemas – FMU (2023 – 2024)
-________________________________________
-### Certificações e Cursos
+## 👨‍💻Conhecimentos
 
-•	Testes Automáticos + Teste de Software (Udemy – 2022)
-•	BDD Experience (Udemy – 2024)
-•	JavaScript para QAs (Udemy – 2024)
+<details>
+  <summary>Metodologias Ágeis</summary>
 
-### Idiomas
-**Inglês** : Nível intermediário, com ênfase em leitura e interpretação de documentos.
+  - Kanban
+  - Scrum
+</details>
+
+<details>
+  <summary>Ferramentas de Comunicação Online</summary>
+
+  - Microsoft Teams
+  - Google Meet
+  - Zoom
+</details>
+
+<details>
+  <summary>Ferramentas para Testes</summary>
+
+  - Robotframework
+  - Cypress
+  - Selenium (em estudo)
+  - Cucumber (em estudo, juntamente com Selenium)
+  - Postman
+  - Maestro (em estudo)
+  - K6 (em estudo)
+</details>
+
+<details>
+  <summary>Ferramentas para Análise Estática de Código</summary>
+
+  - Sonarqube
+</details>
+
+<details>
+  <summary>Ferramentas para Gestão das Atividades de Teste</summary>
+
+  - Trello
+  - Jira
+  - Asana
+</details>
+
+<details>
+  <summary>Elaboração de Documentos da Qualidade</summary>
+
+  - Plano de Testes
+  - Cenários e Casos de Teste
+  - Relatório de Bugs
+  - Resultados dos Testes
+</details>
+
+<details>
+  <summary>Versionamento de Código</summary>
+
+  - Noções básicas em comandos GIT (git add, git commit, git push, git status, git diff, git branch)
+  - Github
+  - Gitlab
+</details>
+
+<details>
+  <summary>Linguagem de Programação</summary>
+
+  - Javascript
+  - Java
+  - Python
+</details>
+
+<details>
+  <summary>Banco de Dados</summary>
+
+  - Noções básicas nos comandos SQL para geração de massas de dados para testes
+  - Uso da ferramenta DBeaver para acesso aos bancos de dados (SQL, MySQL ou Postgress)
+</details>
+
+<br>
 
